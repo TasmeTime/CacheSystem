@@ -14,7 +14,7 @@ Already there is a built in Example Project Called `CacheTest` inside the projec
 
 But there is a short example that shows how library works
 
-```javascript
+```cs
 //Creating a new object of cache system and passing 2 parameters, Base path for the cache folder and the name of the cache folder.
 Cache cache = new Cache("C:\\Users\\Shahin\\Desktop", "Images");
 
