@@ -13,6 +13,7 @@ namespace CacheSystem
     }
     public class Cache
     {
+        public const string VERSION = "beta0.1";
         private string BASE;
         private string FOLDER_NAME;
         public Exception LastExeption;

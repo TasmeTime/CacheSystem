@@ -1,0 +1,11 @@
+D:\Programming\CacheSystem\CachTest\bin\Release\CachTest.exe.config
+D:\Programming\CacheSystem\CachTest\bin\Release\CachTest.exe
+D:\Programming\CacheSystem\CachTest\bin\Release\CachTest.pdb
+D:\Programming\CacheSystem\CachTest\bin\Release\CacheSystem.dll
+D:\Programming\CacheSystem\CachTest\bin\Release\CacheSystem.pdb
+D:\Programming\CacheSystem\CachTest\obj\Release\CachTest.csprojResolveAssemblyReference.cache
+D:\Programming\CacheSystem\CachTest\obj\Release\CachTest.Form1.resources
+D:\Programming\CacheSystem\CachTest\obj\Release\CachTest.Properties.Resources.resources
+D:\Programming\CacheSystem\CachTest\obj\Release\CachTest.csproj.GenerateResource.Cache
+D:\Programming\CacheSystem\CachTest\obj\Release\CachTest.exe
+D:\Programming\CacheSystem\CachTest\obj\Release\CachTest.pdb
