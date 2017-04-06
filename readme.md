@@ -15,11 +15,11 @@ Already there is a built in Example Project Called `CacheTest` inside the projec
 But there is a short example that shows how library works
 
 ```javascript
- //Creating a new object of cache system and passing 2 parameters, Base path for the cache folder and the name of the cache folder.
-            Cache cache = new Cache("C:\\Users\\Shahin\\Desktop", "Images");
+//Creating a new object of cache system and passing 2 parameters, Base path for the cache folder and the name of the cache folder.
+Cache cache = new Cache("C:\\Users\\Shahin\\Desktop", "Images");
 
-            //DownloadFile function automatically checks that if the file is already cached or not,
-            //If it's not cached before it will download the file and store it then return the Path of file
-            string downloadedFilePath = cache.DownloadFile("https://www.tutorialspoint.com/green/images/logo.png", "7C36F81013CE9E0A169D43DAAF98BD21");
-            MessageBox.Show(downloadedFilePath);
+//DownloadFile function automatically checks that if the file is already cached or not,
+//If it's not cached before it will download the file and store it then return the Path of file
+string downloadedFilePath = cache.DownloadFile("https://www.tutorialspoint.com/green/images/logo.png", "7C36F81013CE9E0A169D43DAAF98BD21");
+MessageBox.Show(downloadedFilePath);
 ```
