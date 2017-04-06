@@ -3,9 +3,9 @@ This is a cache system written in C# to make cache process easy.
 
 Working with this library is simple and you can set it up in your project with following instructions:
 
->1.Download or Clone this library.
->2.Add the DLL file to your project using reference section.
->3.Start using library
+>1. Download or Clone this library.
+>2. Add the DLL file to your project using reference section.
+>3. Start using library
 
 
 ### Examples
